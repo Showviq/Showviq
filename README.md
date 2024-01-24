@@ -59,3 +59,8 @@ Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Co
 
 ## Contributions
 ![snake gif](https://github.com/Showviq/Showviq/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
