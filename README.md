@@ -57,4 +57,5 @@ Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Co
   HTML and Tailwind-based frontend for video streaming site.
 </div>
 
+## Contributions
 ![snake gif](https://github.com/Showviq/Showviq/blob/output/github-contribution-grid-snake.gif)
