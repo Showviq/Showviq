@@ -22,6 +22,7 @@ Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Co
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" alt="C" height="50" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 
+
 ## Frameworks
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt="Django" height="50"/></a>
 <a href="https://www.djangoproject.com" target="_blank"><img style="margin: 10px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt=".NET" height="50"/></a>
