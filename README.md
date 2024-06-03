@@ -9,7 +9,7 @@
 
 --->
 <h2 align="center">A passionate Software Engineering student!!</h2>
-Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Computer Science and Engineering (CSE) department at the Islamic University of Technology (IUT), Gazipur, Dhaka, Bangladesh.
+Currently, I'm doing an undergraduate degree in software engineering (SWE) under the Computer Science and Engineering (CSE) department at the Islamic University of Technology (IUT), Gazipur, Dhaka, Bangladesh.
 
 
 
@@ -38,6 +38,32 @@ Currently, I'm doing an undergraduate in Software Engineering (SWE) under the Co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Showviq&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 <!-- (![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Showviq&locale=en&theme=github-dark-blue&hide_border=true)) -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Showviq&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Showviq">
+    <img height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Showviq&theme=radical" alt="Showviq's GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Showviq"><img alt="Showviq's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Showviq&langs_count=10&layout=compact&theme=react&border_color=0050a0&bg_color=0D1117&title_color=5DADE2&icon_color=F8D866" height="250px"/></a>
+  <br/>
+</p>
+
+![Showviq's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Showviq&custom_title=Showviq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0050a0&line=0050a0&point=0050a0&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+
+
+
+
 
 ## Other Profiles
 <div align="center">
