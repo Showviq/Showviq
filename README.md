@@ -32,6 +32,24 @@ Currently, I'm doing an undergraduate degree in software engineering (SWE) under
 ## Tools
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" />
+</a>
+<a href="https://www.apache.org/" target="_blank">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" />
+</a>
+<a href="https://www.canva.com/" target="_blank">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" />
+</a>
+<!--    
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ IDEA" />
+</a>
+-->
+
 
 ## Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Showviq&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
@@ -68,10 +86,10 @@ Currently, I'm doing an undergraduate degree in software engineering (SWE) under
 ## Other Profiles
 <div align="center">
 <a href="https://linkedin.com/in/sami-ul-haque-showviq-041398227" target="_blank"> 
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://codeforces.com/profile/Samiulhaque_Showviq" target="_blank"> 
-<img src=https://img.shields.io/badge/Codeforces-%23A0522D.svg?&style=for-the-badge&logo=Codeforces&logoColor=white alt=Codeforce style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Codeforces-%23A0522D.svg?&style=for-the-badge&logo=Codeforces&logoColor=white alt=Codeforce style="margin-bottom: 5px;"/>
 </a>
 </div>
 
