@@ -20,7 +20,7 @@ Currently, I'm doing an undergraduate degree in software engineering (SWE) under
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" alt="C" height="50" /></a>
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
+
 
 
 ## Frameworks
@@ -29,6 +29,10 @@ Currently, I'm doing an undergraduate degree in software engineering (SWE) under
 
 ## Databases
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</a>
+
 ## Tools
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
@@ -44,6 +48,7 @@ Currently, I'm doing an undergraduate degree in software engineering (SWE) under
 <a href="https://www.canva.com/" target="_blank">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" />
 </a>
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 <!--    
 <a href="https://www.jetbrains.com/idea/" target="_blank">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ IDEA" />
